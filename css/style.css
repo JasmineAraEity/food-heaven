@@ -2,9 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
     color: rgb(51, 50, 50);
-    
     margin: 0;
-    
 }
 .header{
     padding: 30px;
@@ -17,7 +15,6 @@ body{
 .top-banner{
     padding-top: 3%;
 }    
-
 h1{
     font-size: 50px;
 }
@@ -27,12 +24,15 @@ h1{
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
-    
+}
+.about-area{
+    background-color: rgb(248, 240, 241);
+    padding-top: 5%;
+    padding-bottom: 3%;
 }
 .recipe-area{
     padding-left: 5%;
 }
-
 .half-width{
     width: 50%;
     padding-left: 5%;
@@ -43,10 +43,7 @@ h1{
     padding-bottom: 4%;
     padding-left: 18%;
     width: 60%;
-    
-
 }
-
 .half-width img{
     width: 80%;
 }
@@ -58,11 +55,9 @@ h1{
     color: white;
     font-weight: 700;
 }
-
 .about-area{
     background-image: url('Frame 58.jpg');
   
-    
 }
 .recipe-width{
     width: 27%;
