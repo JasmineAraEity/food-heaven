@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(51, 50, 50);
+    
+    margin: 0;
+    
+}
+.header{
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(59, 57, 57);
+    color: rgb(233, 227, 227);
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+    }
+.top-banner{
+    padding-top: 3%;
+}    
+
+h1{
+    font-size: 50px;
+}
+.text-color{
+    color: magenta;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+.recipe-area{
+    padding-left: 5%;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.header-div{
+    text-align: center;
+    text-justify: auto;
+    padding-bottom: 4%;
+    padding-left: 18%;
+    width: 60%;
+    
+
+}
+
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(230, 14, 96),magenta);
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+}
+
+.about-area{
+    background-image: url('Frame 58.jpg');
+  
+    
+}
+.recipe-width{
+    width: 27%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius:20px;
+}
+.recipe-width img{
+    width: 100%;
+}
+.subrscriber{
+    display: flex;
+}
+.followers{
+    width: 27%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+    text-align: center;
+}
+footer{
+background-color: rgb(44, 41, 41);
+color: rgb(240, 231, 231);
+text-align: center;
+padding-bottom: 5%;
+padding-top: 5%;
+}
